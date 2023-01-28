@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+.header{
+    width: 100rem;
+    background-color: black;
+}
+header{
+    background-color: rgb(19, 25, 33);
+    height: 60px;
+}
+
+.container{
+    width: 98%;
+    height: 100%;
+    margin: auto;
+}
+
+.logo .container{
+
+}
+
+.logo2{
+    margin-left: -4rem;
+    background: no-repeat;
+   width: 100px;
+   height: 50px;
+}
+
+.addresh-container{
+    display: flex;
+    color: white;
+    margin-top: -3rem;
+    margin-left: 1rem;
+}
+
+.cccc{
+    width: 25rem;
+    margin-left: 23rem;
+    margin-top: -3rem;
+}
+
+.imgg2{
+    width: 20px;
+    margin-top: -1rem;
+    margin-left: 25rem;
+}
+.pttt{
+    margin-top: -2rem;
+    color: white;
+    margin-left: 27rem;
+}
+
+.hhhe{
+    display: flex;
+    color: white;
+    margin-left: 56rem;
+    margin-top: -3rem;
+}
+
+.tages{
+    text-decoration: none;
+    color: white;
+    margin-top: -4.3rem;
+    margin-left: 70rem;
+}
+
+.car{
+    text-decoration: none;
+    margin-left: 79rem;
+    color: white;
+    margin-top: -4.3rem;
+}
+
+.card{
+    background-color: rgb(38, 15, 54);
+    height: 60px;
+}
