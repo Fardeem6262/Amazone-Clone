@@ -158,3 +158,54 @@ header{
     height: 220px;
     margin-top: -13rem;
 }
+
+.ppoo{
+    display: flex;
+}
+
+.sectionimg1{
+    font-size: medium;
+    margin-top: -20rem;
+    margin-left: 2rem;
+}
+
+.patat{
+    color: blue;
+    text-decoration: none;
+}
+
+.sectionimg2{
+    width: 50rem;
+    height: 50rem;
+    margin-top: -19rem;
+    font-size: medium;
+    margin-left: 30rem;
+}
+
+.h3tt{
+    font-size: medium;
+}
+
+.sectionimg3{
+    margin-top: -50rem;
+    margin-left: 48rem;
+}
+
+.hooo{
+    font-size: medium;
+}
+
+.aio{
+    color: blue;
+    text-decoration: none;
+}
+
+.sectionimg4{
+    margin-top: -15rem;
+    margin-left: 68rem;
+}
+
+.long{
+    color: #000;
+    background-color: yellow;
+}
