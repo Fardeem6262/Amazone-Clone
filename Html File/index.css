@@ -79,3 +79,82 @@ header{
     background-color: rgb(38, 15, 54);
     height: 60px;
 }
+
+.pptt{
+    text-decoration: none;
+    color: white;
+    margin-top: 8px;
+    margin-left: 2rem;
+}
+
+.ama{
+    margin-top: -1.2rem;
+    text-decoration: none;
+    color: white;
+    margin-left: 4rem;
+}
+
+.bet{
+    margin-left: 8rem;
+    margin-top: -1.2rem;
+   color: #ffff;
+   text-decoration: none;
+}
+
+.mob{
+    margin-left: 11rem;
+    margin-top: -1.2rem;
+    color: #ffff;
+    text-decoration: none;
+}
+
+.cus{
+    margin-left: 13rem;
+    margin-top: -1.2rem;
+    color: #ffff;
+    text-decoration: none;
+}
+
+.tod{
+    margin-left: 35rem;
+    margin-top: -1.8rem;
+    color: #ffff;
+    text-decoration: none;
+}
+
+.ele{
+    margin-left: 42rem;
+    color: white;
+    margin-top: -1.2rem;
+    text-decoration: none;
+}
+
+.pri{
+    margin-left: 48rem;
+    color: white;
+    margin-top: -1.2rem;
+    text-decoration: none;
+}
+
+.fas{
+    margin-left: 52rem;
+    color: white;
+    margin-top: -1.2rem;
+    text-decoration: none;
+}
+
+.amaz{
+    margin-left: 57rem;
+    color: white;
+    margin-top: -1.2rem;
+    text-decoration: none;
+}
+
+.ipp{
+    height: 550px;
+}
+
+.bbnn{
+    height: 220px;
+    margin-top: -13rem;
+}
