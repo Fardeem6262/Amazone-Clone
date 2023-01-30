@@ -310,10 +310,70 @@ header{
 }
 
 .fooT{
-    background-color: rgb(12, 12, 48);
+    background-color: rgb(35, 47, 62);
 }
 
 .zxzx{
     margin-left: 8rem;
+
+}
+
+
+.nextfoo{
+    margin-top: -2rem;
+    height: 50%;
+    background-color: rgb(35, 47, 62);
+}
+
+
+.zon{
+    color: #ffff;
+    margin-left: 40rem;
+    margin-top: rem;
+}
+
+.town{
+    text-decoration: none;
+    color: #ffff;
+    margin-left: 5rem;
+}
+
+.flast{
+    margin-top: -2.9rem;
+    background-color: rgb(19, 34, 26);
+}
+
+.voon{
+    margin-left: 5rem;
     margin-top: 3rem;
+    font-size: smaller;
+}
+
+.voony{
+    font-size: smaller;
+    margin-left: 8rem;
+    margin-top: -3.5rem;
+}
+
+.voonk{
+    margin-left: 14rem;
+    margin-top: -3.5rem;
+}
+
+.voonko{
+    margin-top: -3.5rem;
+    margin-left: 15rem;
+    font-size: smaller;
+}
+
+.bbb{
+    text-decoration: none;
+    color: #DDD;
+    font-size: small;
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+
+.inc{
+    margin-left: 5rem;
 }
